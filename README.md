@@ -7,5 +7,12 @@ NOTE: I AM NOT RESPONSABLE FOR ANYTHING.
 
 ANY UPDATES WILL BE POSTED HERE!
 ----------------------------------------------------------------------------------------------------------------------
-Updates!
-N/A
+Updates. (Log: 001 Version: Beta 0.0.2)
+----------------------------------------------------------------------------------------------------------------------
+Pluses:
+-Made the system more vicious with the beans!
+
+Minuses:
+-File is a little bigger!
+
+
