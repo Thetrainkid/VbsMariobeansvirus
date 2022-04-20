@@ -7,12 +7,13 @@ NOTE: I AM NOT RESPONSABLE FOR ANYTHING.
 
 ANY UPDATES WILL BE POSTED HERE!
 ----------------------------------------------------------------------------------------------------------------------
-Updates. (Log: 001 Version: Beta 0.0.2)
+Updates. (Log: 002 Version: Beta 0.0.3)
 ----------------------------------------------------------------------------------------------------------------------
 Pluses:
--Made the system more vicious with the beans!
+-Shorter file
+-No need for setup
 
 Minuses:
--File is a little bigger!
+-Need to keep image and vbs file in same folder
 
 
